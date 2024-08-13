@@ -1,0 +1,43 @@
+html {
+    font-family: "Georgia", "Garamond", "Times New Roman", serif;
+}
+
+h1 {
+    color: rgb(72, 8, 8);
+    font-size: 1.9em;
+}
+
+ul {
+    background-color: red;
+    color: blue;
+}
+
+a:visited {
+    color: blue;
+}
+
+h2 {
+    font-size: 1.4em;
+}
+
+.description {
+    color: hsl(61, 63%, 30%);
+}
+
+.ingredients {
+    color: #c35c09;
+}
+
+.steps {
+    color: rgb(168, 117, 36);
+    font-size: 1.6em;
+}
+
+img {
+    width: 707px;
+    height: auto;
+}
+
+#tall {
+    width: auto;
+}
